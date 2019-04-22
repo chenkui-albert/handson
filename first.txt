@@ -1,2 +1,6 @@
 my first doc
+<<<<<<< HEAD
 new line
+=======
+new line in first.txt in handson2
+>>>>>>> de5da0ca0ada24ab0f8caaf8a605b33b5d4b7864
